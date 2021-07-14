@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149763630937",
+    "project_id": "test123456-36ca6",
+    "storage_bucket": "test123456-36ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149763630937:android:e75cce1244c680deb50e48",
+        "android_client_info": {
+          "package_name": "com.wedevol.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149763630937-8esrjf0m67c5a6tmduglms3v170ku9cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrs4rVwXrzui6N6wjRfrqgBe9JoszH-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149763630937-8esrjf0m67c5a6tmduglms3v170ku9cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
